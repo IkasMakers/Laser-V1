@@ -1,6 +1,7 @@
 # Laser-V1
 Cortadora laser
 
+http://www.3dpburner.blogspot.com.es/p/lectronic.html
 http://www.thingiverse.com/thing:610934
 
 Description
